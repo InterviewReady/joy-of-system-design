@@ -48,6 +48,7 @@ When all empty slots have been populated, the user may submit the design by clic
                                      <i>Empty slots turns white after component placement.</i>
 
 </p>
+
 ## Step 4. View and share result.
 
 The game can have humorous statements after every attempt:
