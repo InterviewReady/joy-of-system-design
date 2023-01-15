@@ -18,14 +18,14 @@ Each design has a corresponding graph. In this graph, the vertices are system de
 
 Each component type will have an image, a description, and a video URL explaining it in detail. These can be shown on hover.
 <p align="center">
-<img src="https://cdn.interviewready.io/complete%20design%20instagram.png">
+<img src="https://cdn.interviewready.io/instagram%20design.png">
             <i>Sample: Complete Instagram System Design (not visible to users).</i>
 </p>
 
 But the user will be shown a system that has half of its components removed. These slots will be chosen randomly every time a user asks for a design.
 
 <p align="center">
-<img src="https://cdn.interviewready.io/instagram%20design.png">
+<img src="https://cdn.interviewready.io/instagram%20blank%20design.png">
 <i>Design with empty slots (visible to users).</i>
 </p>
 
