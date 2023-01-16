@@ -6,10 +6,6 @@ class User {
     this.password = password;
   }
 
-  setPassword(password) {
-    this.password = password;
-  }
-
   checkPassword(password) {
     return this.password === password;
   }
