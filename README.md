@@ -88,4 +88,6 @@ The user ends with three options:
 
 #### You can download the game requirements [here](https://cdn.interviewready.io/The+joy+of+System+Design+-+v2.pdf).
 
-Update: Since the open source project hadn't picked any steam, we pursued this at InterviewReady. The result is this [System Design Online Judge](https://interviewready.io/question-list/system-design-judge).
+### Final Update
+
+Since the open source project hadn't picked any steam, we pursued this at InterviewReady. The result is this **[System Design Online Judge](https://interviewready.io/question-list/system-design-judge).**
